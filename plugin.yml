@@ -1,0 +1,7 @@
+name: OITC
+main: me.Dylan.OITC.Main
+version: 1.0
+description: OITC
+commands:
+  setspawn:
+  start:
